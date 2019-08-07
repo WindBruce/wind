@@ -2,7 +2,7 @@
 title:  随风的博客
 SEOTitle: 随风的博客 | WindBruce's Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: amazing.bruce.2016@gmail.com
 description: "博客"
 keyword: "WindBruce's Blog,博客, 个人网站, 互联网, Web, JavaScript, Java,java, 前端,后端"
 url: "https://www.windkingdom.cn"              # your host, for absolute URL
@@ -72,7 +72,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: ' '            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: www.windkingdom.cn
 
 
 
