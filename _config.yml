@@ -78,7 +78,7 @@ ga_domain: www.windkingdom.cn
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "WindBruce's Tech Blog <br> 随风的博客小站，学习，实践，分享，感悟"
+sidebar-about-description: "WindBruce's Blog <br> 随风的博客小站，学习，实践，分享，感悟"
 sidebar-avatar: /img/avatar-wb.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
