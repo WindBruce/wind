@@ -8,7 +8,7 @@ published: true
 
 ---
 
-## 一，熟悉Filebeat，及其简单配置
+##  一，熟悉Filebeat，及其简单配置
 
 *filebeat 支持采集到的日志，直接存入ElasticSearch，在kibana上展示*
 
@@ -103,7 +103,7 @@ output.elasticsearch:
 
 信息展示：
 
-![kibana展示日志收集](img/img-post/kibana01.PNG)
+![kibana展示日志收集](/img/img-post/kibana01.PNG)
 
 
 
